@@ -1,3 +1,4 @@
+/* global document */
 import { test, expect } from '@playwright/test';
 import { testSetup } from './frontent-test-utils.js';
 
